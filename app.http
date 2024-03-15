@@ -1,0 +1,12 @@
+###
+
+POST http://localhost:3000/user HTTP/1.1
+Content-Type: application/json
+
+{
+    "firstName" : "Raghu Ram",
+    "lastName" : "Kasula",
+    "phoneNumber" : "+919945643281",
+    "emailAddress" : "raghuram@gmail.com"
+}
+
